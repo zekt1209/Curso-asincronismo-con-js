@@ -1,0 +1,28 @@
+{
+  "name": "asincronismo-con-js",
+  "version": "1.0.0",
+  "description": "trabajar con asincronismos en JavaScript",
+  "main": "callback.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "challenge": "node challenge.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zekt1209/Curso-asincronismo-con-js.git"
+  },
+  "keywords": [
+    "callbacks",
+    "promise",
+    "async"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zekt1209/Curso-asincronismo-con-js/issues"
+  },
+  "homepage": "https://github.com/zekt1209/Curso-asincronismo-con-js#readme",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
