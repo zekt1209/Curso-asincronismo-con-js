@@ -1,0 +1,2 @@
+Memory heap - espacio en memoria compartido para toda la aplicacion.
+Event loop - Encargado de entender si la pila de ejecucion esta vacia 
