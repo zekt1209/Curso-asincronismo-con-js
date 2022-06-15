@@ -5,7 +5,11 @@
   "main": "callback.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "challenge": "node challenge.js"
+    "callback:challenge": "node callback/challenge.js",
+    "promise": "node promise/index.js",
+    "promise:challenge": "node promise/challenge.js",
+    "async": "node async/index.js",
+    "async:challenge": "node async/challenge.js"
   },
   "repository": {
     "type": "git",
